@@ -1,0 +1,2 @@
+CREATE USER [Xpedeon_Algo] WITHOUT LOGIN
+GO
